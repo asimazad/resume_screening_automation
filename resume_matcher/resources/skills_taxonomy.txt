@@ -1,0 +1,90 @@
+python
+java
+c++
+javascript
+typescript
+sql
+nosql
+mongodb
+mysql
+postgresql
+html
+css
+react
+angular
+vue
+node.js
+django
+flask
+spring boot
+tensorflow
+pytorch
+keras
+scikit-learn
+pandas
+numpy
+matplotlib
+machine learning
+deep learning
+natural language processing
+computer vision
+data analysis
+data visualization
+data engineering
+data science
+statistics
+excel
+power bi
+tableau
+git
+github
+docker
+kubernetes
+aws
+azure
+gcp
+linux
+rest api
+graphql
+agile
+scrum
+project management
+communication
+teamwork
+leadership
+problem solving
+time management
+c
+c#
+r
+matlab
+spark
+hadoop
+etl
+airflow
+selenium
+testing
+unit testing
+ci/cd
+jenkins
+figma
+photoshop
+seo
+digital marketing
+content writing
+customer service
+sales
+accounting
+financial analysis
+recruitment
+hr policies
+network security
+penetration testing
+cloud computing
+android development
+ios development
+swift
+kotlin
+unity
+blockchain
+solidity

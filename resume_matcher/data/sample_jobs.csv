@@ -1,0 +1,9 @@
+job_id,category,job_text
+J001,Data Science,"Looking for a Data Science intern with knowledge of Python, pandas, numpy and scikit-learn. Should be able to build and evaluate machine learning models such as regression and random forest. Experience with data visualization tools like matplotlib or Power BI is a plus."
+J002,Data Science,"Hiring a Machine Learning intern with experience in TensorFlow or Keras for deep learning projects. Should be comfortable with Python, SQL and Jupyter notebooks for data analysis. Exposure to natural language processing is a bonus."
+J003,Web Development,"Front-end Developer Intern needed with strong skills in HTML, CSS, JavaScript and React. Must be able to build responsive web applications and work with REST APIs. Git and GitHub experience required."
+J004,Web Development,"Full Stack Intern position requiring JavaScript, React, Node.js and MongoDB skills. Should have experience building REST APIs, using Docker, and basic CI/CD with Jenkins."
+J005,Human Resources,"HR Intern required to assist in recruitment, resume screening and interview scheduling. Strong communication and interpersonal skills required. Knowledge of HR policies and onboarding is a plus."
+J006,Marketing,"Digital Marketing Intern needed with skills in SEO, content writing and social media management. Should be comfortable analyzing campaign performance using Excel or Tableau. Experience with Google Ads is a plus."
+J007,Web Development,"Backend Developer Intern with Java, Spring Boot and MySQL experience. Should understand REST API development, Git, and have basic knowledge of AWS deployment."
+J008,Data Science,"Data Analyst Intern with skills in R or Python, SQL, and data visualization using Tableau. Should be able to perform exploratory data analysis and present insights clearly."
